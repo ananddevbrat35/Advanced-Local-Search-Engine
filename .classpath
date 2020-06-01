@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (1)/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (1)/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (1)/io-7.1.10.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (1)/kernel-7.1.10.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (1)/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/jar_files (2)/layout-7.1.10.jar"/>
+	<classpathentry kind="lib" path="D:/android app development nptel/itextpdf-5.2.0.jar/itextpdf-5.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
