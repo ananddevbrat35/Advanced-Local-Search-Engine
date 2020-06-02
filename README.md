@@ -15,6 +15,10 @@ Supported features and modes are:
 Click the below link and select download. \
 https://drive.google.com/file/d/1D6ipckLI8tT2EEOiZstAsGNytvyKv9zB/view?usp=sharing
 
+## Screenshot and guide for use of software
+
+1. <img src="https://user-images.githubusercontent.com/40437267/83483452-55e57a80-a4c0-11ea-9528-a3d81be6157e.png" >
+
 
 
 
