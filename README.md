@@ -16,10 +16,13 @@ Click the below link and select download. \
 https://drive.google.com/file/d/1D6ipckLI8tT2EEOiZstAsGNytvyKv9zB/view?usp=sharing
 
 ## Screenshot and guide for use of software
-###  1. This is home page, here first you need to choose directory of your choice across which you want to search. 
+####  1. This is home page, here first you need to choose directory of your choice across which you want to search. 
 
 <img src="https://user-images.githubusercontent.com/40437267/83483452-55e57a80-a4c0-11ea-9528-a3d81be6157e.png" >
 
+####  2. When clicked "click to select directory for searching" directory chooser opens, here select your directory.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483456-57af3e00-a4c0-11ea-914e-29d7cab4b010.png" >
 
 
 
