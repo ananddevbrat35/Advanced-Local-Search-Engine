@@ -546,7 +546,7 @@ public class Main extends Application {
         Scene scene = new Scene(root1, 700, 700);
         
         primaryStage.setTitle("ADVANCED LOCAL SEARCH ENGINE ( DEVELOPED BY DEVBRAT ANAND )");
-         
+        primaryStage.getIcons().add(new Image("file:///D:/eclipse%20development/rt/src/rt/logo.png"));
         primaryStage.setScene(scene);
         primaryStage.show();
     }
