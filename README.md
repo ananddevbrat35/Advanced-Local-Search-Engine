@@ -24,6 +24,33 @@ https://drive.google.com/file/d/1D6ipckLI8tT2EEOiZstAsGNytvyKv9zB/view?usp=shari
 
 <img src="https://user-images.githubusercontent.com/40437267/83483456-57af3e00-a4c0-11ea-914e-29d7cab4b010.png" >
 
+####  3. After Index gets created, choose the search mode form the given button and type query in query box. Now after pressing "Click to search", here result for phrase query is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483457-5847d480-a4c0-11ea-94d6-da5bbbac4c9f.png" >
+
+####  4. From the search result section, you can click the link to open any fetched file. All link opens with appropiate browser or software. Here opening of pdf file is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483461-58e06b00-a4c0-11ea-8901-fc9d07806ba7.png" >
+
+####  5. From the search result section, you can click the link to open any fetched file. All link opens with appropiate browser or software. Here opening of text file is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483462-5a119800-a4c0-11ea-9ee4-08c9d5bad808.png" >
+
+####  6. After pressing "Click to search", here result for proximity query is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483465-5b42c500-a4c0-11ea-8294-662a7d027ccb.png" >
+
+####  7. After pressing "Click to search", here result for wild card query is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483468-5c73f200-a4c0-11ea-9c81-602f802f6800.png" >
+
+####  8. After pressing "Click to search", here result for probable correct spelling of incorrect word is shown.
+
+<img src="https://user-images.githubusercontent.com/40437267/83483474-5d0c8880-a4c0-11ea-892c-ef8a06375d74.png" >
+
+
+
+
 
 
 
